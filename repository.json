@@ -1,0 +1,27 @@
+{
+    "name": "Bonnie's Source",
+    "description": "Hi there :3",
+    "iconURL": "https://avatars.githubusercontent.com/u/73203899?v=4",
+    "website": "https://bonnie39.github.io",
+    "packages": [
+        {
+            "name": "Portal2 SkinPack For Portal 1 v1.0",
+            "authorName": "BWest",
+            "subtitle": "Transform Portal 1 into Portal 2",
+            "iconURL": "https://media.moddb.com/cache/images/downloads/1/88/87325/thumb_620x2000/2015-07-15_00001.jpg",
+            "screenshotURLs": [
+                "https://media.moddb.com/cache/images/downloads/1/88/87325/thumb_620x2000/2015-07-15_00001.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.0",
+                    "date": "2015-07-15",
+                    "description": "very early test version (it sucks)",
+                    "vpkURL": "a.link.to/addon.vpk",
+                    "jsonURL": "a.link.to/addon.json",
+                    "size-mb": "24.71 MB"
+                  }
+              ]
+        }
+    ]
+  }
