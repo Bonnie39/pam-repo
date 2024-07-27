@@ -22,7 +22,7 @@
                     "vpkURL": "https://github.com/Bonnie39/pam-repo/releases/download/1/bwest.mdb.portal2_skinpack.1.5.vpk",
                     "jsonURL": "https://raw.githubusercontent.com/Bonnie39/pam-repo/main/packages/bwest.mdb.portal2_skinpack.1.5/bwest.mdb.portal2_skinpack.1.5.json",
                     "size-mb": "166.37 MB",
-                    "packageID": "bwest.mdb.portal2_skinpack.1.5/bwest.mdb.portal2_skinpack.1.5"
+                    "packageID": "bwest.mdb.portal2_skinpack.1.5"
                 }
             ]
         },
@@ -43,7 +43,7 @@
                     "vpkURL": "https://github.com/Bonnie39/pam-repo/releases/download/1/bwest.gb.portalgun_with_hand.1.0.vpk",
                     "jsonURL": "https://raw.githubusercontent.com/Bonnie39/pam-repo/main/packages/bwest.gb.portalgun_with_hand.1.0/bwest.gb.portalgun_with_hand.1.0.json",
                     "size-mb": "6.31 MB",
-                    "packageID": "bwest.gb.portalgun_with_hand.1.0/bwest.gb.portalgun_with_hand.1.0"
+                    "packageID": "bwest.gb.portalgun_with_hand.1.0"
                 }
             ]
         }
