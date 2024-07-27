@@ -1,0 +1,49 @@
+{
+    "name": "THIS IS A SECOND SOURCE FOR TESTING",
+    "description": "Hi there :3",
+    "iconURL": "https://media.moddb.com/images/members/2/1947/1946400/Hey_there_profile.png",
+    "website": "https://bonnie39.github.io",
+    "packages": [
+        {
+            "name": "Portal 2 Skinpack",
+            "authorName": "BWest",
+            "subtitle": "Transform Portal into Portal 2",
+            "iconURL": "https://raw.githubusercontent.com/Bonnie39/pam-repo/main/packages/bwest.mdb.portal2_skinpack.1.5/img/bwest.mdb.portal2_skinpack.1.5.png",
+            "screenshotURLs": [
+                "https://media.moddb.com/cache/images/mods/1/30/29821/thumb_620x2000/20160506190420_1.jpg",
+                "https://media.moddb.com/cache/images/mods/1/30/29821/thumb_620x2000/20160506185952_1.jpg",
+                "https://media.moddb.com/cache/images/mods/1/30/29821/thumb_620x2000/20160506190500_1.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.5",
+                    "date": "2016-05-06",
+                    "description": "Transform Portal into Portal 2",
+                    "vpkURL": "https://github.com/Bonnie39/pam-repo/releases/download/1/bwest.mdb.portal2_skinpack.1.5.vpk",
+                    "jsonURL": "https://raw.githubusercontent.com/Bonnie39/pam-repo/main/packages/bwest.mdb.portal2_skinpack.1.5/bwest.mdb.portal2_skinpack.1.5.json",
+                    "size-mb": "166.37 MB"
+                }
+            ]
+        },
+        {
+            "name": "Portal Gun w/ Hand",
+            "authorName": "BWest",
+            "subtitle": "Adds a hand to the viewmodel",
+            "iconURL": "https://raw.githubusercontent.com/Bonnie39/pam-repo/main/packages/bwest.gb.portalgun_with_hand.1.0/img/bwest.gb.portalgun_with_hand.1.0.png",
+            "screenshotURLs": [
+                "chttps://images.gamebanana.com/img/ss/mods/62e0c07f4f544.jpg",
+                "https://images.gamebanana.com/img/ss/mods/62e0c07fa889d.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.0",
+                    "date": "2022-07-27",
+                    "description": "Adds a hand to the viewmodel",
+                    "vpkURL": "https://github.com/Bonnie39/pam-repo/releases/download/1/bwest.gb.portalgun_with_hand.1.0.vpk",
+                    "jsonURL": "https://raw.githubusercontent.com/Bonnie39/pam-repo/main/packages/bwest.gb.portalgun_with_hand.1.0/bwest.gb.portalgun_with_hand.1.0.json",
+                    "size-mb": "6.31 MB"
+                }
+            ]
+        }
+    ]
+}
